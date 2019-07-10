@@ -1,0 +1,4 @@
+#comment
+#firstline
+
+print "hello"
